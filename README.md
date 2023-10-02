@@ -1,5 +1,7 @@
+(mkosi -> docker -> whatever) is a fast, cachable, and painless workflow to produce images.
+
 # why
-(mkosi -> docker -> whatever) is a fast, cachable, and painless way to build images.
+you have a compelling reason to build from scratch
 
 # mkosi docs
 see http://0pointer.net/blog/mkosi-a-tool-for-generating-os-images.html
