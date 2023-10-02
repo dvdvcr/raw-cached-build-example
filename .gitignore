@@ -1,0 +1,5 @@
+image.cache-pre-inst
+mkosi.cache/*
+.mkosi*
+image
+image.manifest
